@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleMapAndLocationDemo</string>
+    <string name="map_key">AIzaSyCWGN0uH-wrdex2yJMqPYfEtJ6CVUMNXDM</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="find_button">Find</string>
+
+    <string name="empty_text">Please Enter Latitude and longitude </string>
+    <string name="not_valid">"Please enter valid Latitude and Longitude"</string>
+</resources>
